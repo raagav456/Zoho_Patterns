@@ -28,7 +28,9 @@ public class Main {
 }
 
 /* Sample input = 4
+
    Sample Output
+   
             4444444
             4333334
             4322234
